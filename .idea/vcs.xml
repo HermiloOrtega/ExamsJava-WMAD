@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Assignment1-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Assignment2-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Assignment3-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Assignment4-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Assignment5-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/git-mania" vcs="Git" />
+  </component>
+</project>
